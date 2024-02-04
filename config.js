@@ -98,9 +98,9 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'Twitter',
-			icon: 'twitter',
-			link: 'https://twitter.com/',
+			name: 'FCC Radio',
+			icon: 'audio-lines',
+			link: 'https://coderadio-admin.freecodecamp.org/public/coderadio',
 		},
 		{
 			id: '3',
@@ -227,4 +227,4 @@ const CONFIG = {
 // 			],
 // 		},
 // 	],
-// };
+};
