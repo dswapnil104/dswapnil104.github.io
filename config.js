@@ -31,18 +31,18 @@ const CONFIG = {
 	// weatherUnit: 'C', // 'F', 'C'
 	// language: 'en', // More languages in https://openweathermap.org/current#multi
 
-	trackLocation: false, // If false or an error occurs, the app will use the lat/lon below
-	defaultLatitude: '19.197580',
-	defaultLongitude: '77.298600',
+	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
+	defaultLatitude: '19.18504500927108',
+	defaultLongitude: '77.30615624735442',
 
 	// Autochange
 	autoChangeTheme: true,
 
 	// Autochange by OS
-	changeThemeByOS: true,
+	changeThemeByOS: false,
 
 	// Autochange by hour options (24hrs format, string must be in: hh:mm)
-	changeThemeByHour: false,
+	changeThemeByHour: true,
 	hourDarkThemeActive: '18:00',
 	hourDarkThemeInactive: '06:00',
 
